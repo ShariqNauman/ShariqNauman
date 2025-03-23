@@ -51,6 +51,9 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ShariqNauman&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShariqNauman&theme=tokyonight" />
 </p> 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyonight" />
+</p>
 
 ---
 
