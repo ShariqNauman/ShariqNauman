@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F7A41D&center=true&vCenter=true&width=450&lines=Hi,+I'm+Shariq+Nauman!+🚀;AI+&+Data+Science+Enthusiast;Building+Pathway+AI+with+Gemini+API;Future+AI+Innovator">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F7A41D&center=true&vCenter=true&width=600&lines=Hi,+I'm+Shariq+Nauman!+🚀;AI+%26+Data+Science+Enthusiast;Building+Pathway+AI+with+Gemini+API;Future+AI+Innovator">
 </h1>
+
 
 ---
 
