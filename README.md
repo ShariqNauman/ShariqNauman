@@ -20,7 +20,7 @@
 🔹 **Google Play Store Analysis** – Sentiment analysis of user reviews for better insights  
 🔹 **More AI & Data Science projects coming soon... 🚀**  
 
-📌 **Check out my repositories 👉 [GitHub Projects](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)**  
+📌 **Check out my repositories 👉 [GitHub Projects](https://github.com/ShariqNauman?tab=repositories)**  
 
 ---
 
