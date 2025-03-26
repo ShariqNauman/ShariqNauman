@@ -18,7 +18,7 @@
 
 🔹 **[Pathway AI](https://preview--study-companion-gemini.lovable.app/)** – AI-powered university & career consultant  
 🔹 **Google Play Store Analysis** – Sentiment analysis of user reviews for better insights\
-🔹 **Web Scraper with Selenium** – A Python-based web scraper that extracts information from websites using Selenium.  
+🔹 **AI Web Scraper** – A Python-based web scraper that extracts information from websites using Selenium.  
 🔹 **More AI & Data Science projects coming soon... 🚀**  
 
 📌 **Check out my repositories 👉 [GitHub Projects](https://github.com/ShariqNauman?tab=repositories)**  
