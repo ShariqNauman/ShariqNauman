@@ -19,7 +19,7 @@
 🔹 **[Pathway AI](https://preview--study-companion-gemini.lovable.app/)** – AI-powered university & career consultant  
 🔹 **Google Play Store Analysis** – Sentiment analysis of user reviews for better insights\
 🔹 **AI Web Scraper** – A Python-based web scraper that extracts information from websites using Selenium.\
-🔹 **MathLab GUI** – A multi-functional desktop application with math tools, a calculator, a stopwatch, and more, built using Tkinter.
+🔹 **MathLab GUI** – A multi-functional desktop application with math tools, a calculator, a stopwatch, and more, built using Tkinter.\
 🔹 **More AI & Data Science projects coming soon... 🚀**  
 
 📌 **Check out my repositories 👉 [GitHub Projects](https://github.com/ShariqNauman?tab=repositories)**  
